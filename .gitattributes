@@ -1,2 +1,135 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chang E and the Hunter</title>
+<style type="text/css">
+    body {
+        background: #1D1034;
+        background-image: url("website-bg.jpg");
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        margin: 0;
+        padding: 0;
+        height: auto;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+    }
+    div {
+        width: 800px;
+        margin: 1em auto;
+        padding: 30px;
+        background-color: #150C28;
+        border-radius: 1em;
+        text-align: center;
+        border-style: solid;
+        border-color: #3C2846;
+        opacity: 80%;
+    }
+
+
+    @media (max-width: 700px) {
+    body {
+        background-color: #9C8BA1;
+    }
+    div {
+    width: auto;
+    margin: 0 auto;
+    border-radius: 0;
+    padding: 1em;
+    text-align: center;
+    
+}
+}
+
+    p {
+        color: #9C8BA1;
+        font-size: 16px;
+    }
+
+    h1 {
+        color: #A5D5E4;
+        font-size: 40px;
+        text-shadow: -2px 2px 2px #60599F;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    footer {
+        color: #9C8BA1;
+        font-size: smaller;
+        background-color: #3C2846;
+    }
+
+    a:link {
+        color: #A5D5E4;
+    }
+
+    a:visited {
+        color: plum;
+        text-decoration: solid;
+    }
+
+
+</style>
+
+
+</head>
+
+<body>
+     <h1>Me & the Moon</h1>
+
+     <div>
+        <p>No one is certain of all the details of the Chang E legend, but the story goes
+            something like this:</p>
+            <br>
+           <p>Chang E was a beautiful young girl working in the Jade Emperor's palace
+            in heaven, where immortals, good people and fairies lived. One day, she
+            accidentally broke a precious porcelain jar. Angered, the Jade Emperor
+            banished her to live on earth, where ordinary people lived. She could return
+            to the Heaven, if she contributed a valuable service on earth.</p>
+
+            <p>Chang E was transformed into a member of a poor farming family. When she was 18,
+            a young hunter named Hou Yi from another village spotted her, now a beautiful
+            young woman. They became friends.</p>
+
+            <p>One day, a strange phenomenon occurred - 10 suns arose in the sky instead of
+                one, blazing the earth. Hou Yi, an expert archer, stepped forward to
+                try to save the earth. He successfully shot down nine of the suns, becoming
+                an instant hero. He eventually became king and married Chang E.</p>
+
+            <p>But Hou Yi gream to become a despot. He sought immortality by ordering an
+                elixir be created to prolong his life. The elixir in the form of a single
+                pill was almost ready when Chang E came upon it. She either accidentally or
+                purposely swallowed the pill. This angered King Hou Yi, who went after his wife.
+                Trying to flee, she jumped out the window of a chamber at that top of the palace
+                and instead of falling, she floated into sky toward the moon.</p>
+        
+            <p>King Hou Yi tried to shoot her down with arrows, but without success. Once on the
+                moon, Chang E became a three-legged toad, as punishment from the Queen Mother, according
+                to one version of the legend. Her companion, a rabbit, is constantly pounding the exilir
+                of immortality in a large mortar.</p>
+
+            <p>The moon is also inhabited by a wood cutter who tries to cut down the cassia
+                tree, giver of life. But as fast as he cuts into the tree, it heals itself,
+                and he never makes any progress. The Chinese use this image of the cassia tree
+                to explain mortal life on earth - the limbs are constantly being cut away by death, but
+                buds continually appear.</p>    
+
+                <p>Meanwhile, King Hou Yi ascended to the sun and built a palace. So Chang E and Hou Yi came
+                   to represent the yin and yang, the moon and sun. </p>
+
+                   <a href="https://www.smitegame.com/gods/chang'e">
+                   <img src="https://static.wikia.nocookie.net/smite_gamepedia/images/9/95/SkinArt_ChangE_Default.jpg/revision/latest/scale-to-width-down/250?cb=20160505052227">
+                   </a>
+            <p><a href="http://www.moonfestival.org/the-legend-of-chang-e.html">Credit</a></p>
+    
+    
+    </div>
+
+<footer>Site Designed by Caitlin McLendon</footer>
+
+</body>
+</html>
